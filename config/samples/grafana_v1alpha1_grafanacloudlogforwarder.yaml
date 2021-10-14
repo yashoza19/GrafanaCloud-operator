@@ -1,7 +1,0 @@
-apiVersion: grafana.example.com/v1alpha1
-kind: GrafanaCloudLogForwarder
-metadata:
-  name: grafanacloudlogforwarder-sample
-spec:
-  # Add fields here
-  foo: bar
